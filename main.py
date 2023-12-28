@@ -1,15 +1,15 @@
-def addition(x, y):
+def addition(x, a):
     """
     Adds two numbers.
 
     Parameters:
     - x: The first number.
-    - y: The second number.
+    - a: The second number.
 
     Returns:
-    The sum of x and y.
+    The sum of x and a.
     """
-    return x + y
+    return x + a
 
 def subtraction(x, y):
     """
